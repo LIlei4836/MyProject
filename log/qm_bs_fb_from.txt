@@ -1,0 +1,14 @@
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:170: Warning: (1050, "Table 'qm_basketball_from' already exists")
+  result = self._query(query)
+创建成功！score_fb
+
+
+
+
+
+
+
+
+
+
+
